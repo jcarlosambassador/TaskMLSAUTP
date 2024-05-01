@@ -11,6 +11,7 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
+import Education from "./Components/Education";
 
 import "./styles.css";
 
@@ -24,14 +25,14 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Juan Carlos Chavez Perez",
+  title: "Entrepremeur",
+  email: "juancarlos@sample.com",
+  gitHub: "jcarlosambassador",
+  instagram: "",
+  linkedIn: "jcarlosper",
   medium: "",
-  twitter: "microsoft",
+  twitter: "",
   youTube: "Code",
 };
 
@@ -46,6 +47,7 @@ const App = () => {
       <About />
       <Portfolio />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
+      <Education />
     </div>
   );
 };

@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/human-vr.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Human VR";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Passionate about technology and promoter of accessible knowledge.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "My focus on data science and artificial intelligence motivates me to use data to provide effective and useful solutions, believing strongly in its power to inform decisions and enrich our lives. As Carl Sagan once said, “We are a way for the cosmos to know itself,” and I see my work as a contribution to that process of self-knowledge.";
 
 const About = () => {
   return (
