@@ -27090,7 +27090,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Juan Carlos Chavez Perez",
-    title: "Entrepremeur",
+    title: "Leader in management",
     email: "juancarlos@sample.com",
     gitHub: "jcarlosambassador",
     instagram: "",
@@ -27128,16 +27128,16 @@ const App = ()=>{
                 lineNumber: 48,
                 columnNumber: 7
             }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _educationDefault.default), {}, void 0, false, {
+                fileName: "src/App.jsx",
+                lineNumber: 49,
+                columnNumber: 7
+            }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {
                 ...siteProps,
                 primaryColor: primaryColor,
                 secondaryColor: secondaryColor
             }, void 0, false, {
-                fileName: "src/App.jsx",
-                lineNumber: 49,
-                columnNumber: 7
-            }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _educationDefault.default), {}, void 0, false, {
                 fileName: "src/App.jsx",
                 lineNumber: 50,
                 columnNumber: 7
@@ -27194,12 +27194,12 @@ const imageAltText = "Human VR";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
+    "Team management",
+    "Data science",
+    "Cloud computing",
+    "Artificial intelligence",
     "Mobile user interfaces",
-    "Graphic design", 
+    "Web development", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -28629,9 +28629,9 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _robotJpg = require("../images/robot.jpg");
-var _robotJpgDefault = parcelHelpers.interopDefault(_robotJpg);
-const imageAltText = "Robot";
+ */ var _unempJpg = require("../images/unemp.jpg");
+var _unempJpgDefault = parcelHelpers.interopDefault(_unempJpg);
+const imageAltText = "emp";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
@@ -28639,7 +28639,7 @@ const Home = ({ name , title  })=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _robotJpgDefault.default),
+                src: (0, _unempJpgDefault.default),
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
@@ -28722,11 +28722,11 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/robot.jpg":"j79uK","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/unemp.jpg":"jxqJz"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"j79uK":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "robot.532a3b6f.jpg" + "?" + Date.now();
+},{"./helpers/bundle-url":"lgJ39"}],"jxqJz":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "unemp.24dc3a4f.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lCaEt":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$ed0d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
@@ -28771,19 +28771,19 @@ const imageAltText = "Deepmind";
         url: "https://1drv.ms/u/s!Aq_vuQ_HpBazgaQrQaYTTmlIK7loaA?e=5QEYCy"
     },
     {
-        title: "Web Development - APIs",
-        description: "Development of APIs to facilitate efficient and secure communication between different web systems, promoting effective integration and data exchange.",
-        url: "https://1drv.ms/u/s!Aq_vuQ_HpBazgaQrQaYTTmlIK7loaA?e=5QEYCy"
+        title: "Workshop on Microsoft SQL Server databases",
+        description: "I have organized an academic workshop focused on exploring the fundamental concepts of Microsoft SQL Server and its relevance to systems engineering, with an emphasis on integration with cloud storage services.",
+        url: "https://www.linkedin.com/posts/jcarlosper_ingenieraedadesistemas-utpchimbote-activity-7134180633802596352-zhrD?utm_source=share&utm_medium=member_desktop"
     },
     {
-        title: "University Project - Creation of APIs",
-        description: "Development of APIs to facilitate efficient and secure communication between different web systems, promoting effective integration and data exchange.",
-        url: "https://1drv.ms/u/s!Aq_vuQ_HpBazgaQrQaYTTmlIK7loaA?e=5QEYCy"
+        title: "Winner of the Internal Programming Contest at my University",
+        description: "I triumphed in an internal programming contest at my university by innovatively solving a product management problem, using a practical case based on a museum, using the Java programming language.",
+        url: "https://1drv.ms/b/s!AsTJRf1_cs5YkEB5GVcMj3biPdJr?e=NaeCmk"
     },
     {
-        title: "GitHub APIs",
-        description: "Development of APIs to facilitate efficient and secure communication between different web systems, promoting effective integration and data exchange.",
-        url: "https://1drv.ms/u/s!Aq_vuQ_HpBazgaQrQaYTTmlIK7loaA?e=5QEYCy"
+        title: "Learn about my Skills on GitHub",
+        description: "Explore my GitHub profile to learn more about me and my management skills. I invite you to discover more about me and my work!",
+        url: "https://github.com/jcarlosper"
     }, 
 ];
 const Portfolio = ()=>{
@@ -28917,14 +28917,65 @@ const Education = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "light",
         id: "education",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-            children: "Education"
-        }, void 0, false, {
-            fileName: "src/Components/Education.jsx",
-            lineNumber: 6,
-            columnNumber: 13
-        }, undefined)
-    }, void 0, false, {
+        style: {
+            backgroundColor: "#c0d8f0",
+            padding: "20px"
+        },
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("center", {
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                    children: "Education"
+                }, void 0, false, {
+                    fileName: "src/Components/Education.jsx",
+                    lineNumber: 7,
+                    columnNumber: 13
+                }, undefined)
+            }, void 0, false, {
+                fileName: "src/Components/Education.jsx",
+                lineNumber: 6,
+                columnNumber: 12
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                fileName: "src/Components/Education.jsx",
+                lineNumber: 8,
+                columnNumber: 22
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                style: {
+                    padding: "0 15px 15px 0"
+                },
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                        children: '"Technological University of Peru"'
+                    }, void 0, false, {
+                        fileName: "src/Components/Education.jsx",
+                        lineNumber: 10,
+                        columnNumber: 17
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                        fileName: "src/Components/Education.jsx",
+                        lineNumber: 10,
+                        columnNumber: 60
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                        style: {
+                            fontSize: "16px",
+                            lineHeight: "1.2"
+                        },
+                        children: "I am currently studying Systems and Computer Engineering at the Technological University of Peru. I am in my 7th semester and I lead a university community, where I have developed team leadership skills and technical knowledge. We have organized presentations, contests, and academic workshops for students, focusing on education in emerging technologies."
+                    }, void 0, false, {
+                        fileName: "src/Components/Education.jsx",
+                        lineNumber: 11,
+                        columnNumber: 17
+                    }, undefined)
+                ]
+            }, void 0, true, {
+                fileName: "src/Components/Education.jsx",
+                lineNumber: 9,
+                columnNumber: 13
+            }, undefined)
+        ]
+    }, void 0, true, {
         fileName: "src/Components/Education.jsx",
         lineNumber: 5,
         columnNumber: 9
