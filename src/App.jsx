@@ -26,7 +26,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Juan Carlos Chavez Perez",
-  title: "Entrepremeur",
+  title: "Leader in management",
   email: "juancarlos@sample.com",
   gitHub: "jcarlosambassador",
   instagram: "",
@@ -46,8 +46,8 @@ const App = () => {
       <Home name={siteProps.name} title={siteProps.title} />
       <About />
       <Portfolio />
-      <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
       <Education />
+      <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
   );
 };

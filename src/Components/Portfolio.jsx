@@ -37,22 +37,22 @@ const projectList = [
     url: "https://1drv.ms/u/s!Aq_vuQ_HpBazgaQrQaYTTmlIK7loaA?e=5QEYCy",
   },
   {
-    title: "Web Development - APIs",
+    title: "Workshop on Microsoft SQL Server databases",
     description:
-      "Development of APIs to facilitate efficient and secure communication between different web systems, promoting effective integration and data exchange.",
-    url: "https://1drv.ms/u/s!Aq_vuQ_HpBazgaQrQaYTTmlIK7loaA?e=5QEYCy",
+      "I have organized an academic workshop focused on exploring the fundamental concepts of Microsoft SQL Server and its relevance to systems engineering, with an emphasis on integration with cloud storage services.",
+    url: "https://www.linkedin.com/posts/jcarlosper_ingenieraedadesistemas-utpchimbote-activity-7134180633802596352-zhrD?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "University Project - Creation of APIs",
+    title: "Winner of the Internal Programming Contest at my University",
     description:
-      "Development of APIs to facilitate efficient and secure communication between different web systems, promoting effective integration and data exchange.",
-    url: "https://1drv.ms/u/s!Aq_vuQ_HpBazgaQrQaYTTmlIK7loaA?e=5QEYCy",
+      "I triumphed in an internal programming contest at my university by innovatively solving a product management problem, using a practical case based on a museum, using the Java programming language.",
+    url: "https://1drv.ms/b/s!AsTJRf1_cs5YkEB5GVcMj3biPdJr?e=NaeCmk",
   },
   {
-    title: "GitHub APIs",
+    title: "Learn about my Skills on GitHub",
     description:
-      "Development of APIs to facilitate efficient and secure communication between different web systems, promoting effective integration and data exchange.",
-    url: "https://1drv.ms/u/s!Aq_vuQ_HpBazgaQrQaYTTmlIK7loaA?e=5QEYCy",
+      "Explore my GitHub profile to learn more about me and my management skills. I invite you to discover more about me and my work!",
+    url: "https://github.com/jcarlosper",
   },
 ];
 
